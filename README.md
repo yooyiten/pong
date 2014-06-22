@@ -1,5 +1,5 @@
 ---
-Course: CSCI E-28, Unix Systems Programming
+Course: CSCI E-28, Unix Systems Programming (Spring 2014)
 Assignment: pong
 Author: Yoora Yi Tenen
 ---
